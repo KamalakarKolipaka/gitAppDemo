@@ -1,0 +1,12 @@
+C:\Users\manasa\source\repos\CGI\Transactions\Transactions.Core\bin\Debug\net6.0\Transactions.Core.deps.json
+C:\Users\manasa\source\repos\CGI\Transactions\Transactions.Core\bin\Debug\net6.0\Transactions.Core.dll
+C:\Users\manasa\source\repos\CGI\Transactions\Transactions.Core\bin\Debug\net6.0\Transactions.Core.pdb
+C:\Users\manasa\source\repos\CGI\Transactions\Transactions.Core\obj\Debug\net6.0\Transactions.Core.csproj.AssemblyReference.cache
+C:\Users\manasa\source\repos\CGI\Transactions\Transactions.Core\obj\Debug\net6.0\Transactions.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manasa\source\repos\CGI\Transactions\Transactions.Core\obj\Debug\net6.0\Transactions.Core.AssemblyInfoInputs.cache
+C:\Users\manasa\source\repos\CGI\Transactions\Transactions.Core\obj\Debug\net6.0\Transactions.Core.AssemblyInfo.cs
+C:\Users\manasa\source\repos\CGI\Transactions\Transactions.Core\obj\Debug\net6.0\Transactions.Core.csproj.CoreCompileInputs.cache
+C:\Users\manasa\source\repos\CGI\Transactions\Transactions.Core\obj\Debug\net6.0\Transactions.Core.dll
+C:\Users\manasa\source\repos\CGI\Transactions\Transactions.Core\obj\Debug\net6.0\refint\Transactions.Core.dll
+C:\Users\manasa\source\repos\CGI\Transactions\Transactions.Core\obj\Debug\net6.0\Transactions.Core.pdb
+C:\Users\manasa\source\repos\CGI\Transactions\Transactions.Core\obj\Debug\net6.0\ref\Transactions.Core.dll

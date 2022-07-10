@@ -1,0 +1,12 @@
+C:\Users\manasa\source\repos\CGI\Account\Account.Core\bin\Debug\net6.0\Account.Core.deps.json
+C:\Users\manasa\source\repos\CGI\Account\Account.Core\bin\Debug\net6.0\Account.Core.dll
+C:\Users\manasa\source\repos\CGI\Account\Account.Core\bin\Debug\net6.0\Account.Core.pdb
+C:\Users\manasa\source\repos\CGI\Account\Account.Core\obj\Debug\net6.0\Account.Core.csproj.AssemblyReference.cache
+C:\Users\manasa\source\repos\CGI\Account\Account.Core\obj\Debug\net6.0\Account.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manasa\source\repos\CGI\Account\Account.Core\obj\Debug\net6.0\Account.Core.AssemblyInfoInputs.cache
+C:\Users\manasa\source\repos\CGI\Account\Account.Core\obj\Debug\net6.0\Account.Core.AssemblyInfo.cs
+C:\Users\manasa\source\repos\CGI\Account\Account.Core\obj\Debug\net6.0\Account.Core.csproj.CoreCompileInputs.cache
+C:\Users\manasa\source\repos\CGI\Account\Account.Core\obj\Debug\net6.0\Account.Core.dll
+C:\Users\manasa\source\repos\CGI\Account\Account.Core\obj\Debug\net6.0\refint\Account.Core.dll
+C:\Users\manasa\source\repos\CGI\Account\Account.Core\obj\Debug\net6.0\Account.Core.pdb
+C:\Users\manasa\source\repos\CGI\Account\Account.Core\obj\Debug\net6.0\ref\Account.Core.dll

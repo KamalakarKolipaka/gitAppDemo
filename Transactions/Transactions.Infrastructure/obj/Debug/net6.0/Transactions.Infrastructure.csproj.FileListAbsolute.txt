@@ -1,0 +1,17 @@
+C:\Users\manasa\source\repos\CGI\Transactions\Transactions.Infrastructure\bin\Debug\net6.0\Transactions.Infrastructure.deps.json
+C:\Users\manasa\source\repos\CGI\Transactions\Transactions.Infrastructure\bin\Debug\net6.0\Transactions.Infrastructure.runtimeconfig.json
+C:\Users\manasa\source\repos\CGI\Transactions\Transactions.Infrastructure\bin\Debug\net6.0\Transactions.Infrastructure.dll
+C:\Users\manasa\source\repos\CGI\Transactions\Transactions.Infrastructure\bin\Debug\net6.0\Transactions.Infrastructure.pdb
+C:\Users\manasa\source\repos\CGI\Transactions\Transactions.Infrastructure\bin\Debug\net6.0\Transactions.Core.dll
+C:\Users\manasa\source\repos\CGI\Transactions\Transactions.Infrastructure\bin\Debug\net6.0\Transactions.Core.pdb
+C:\Users\manasa\source\repos\CGI\Transactions\Transactions.Infrastructure\obj\Debug\net6.0\Transactions.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\manasa\source\repos\CGI\Transactions\Transactions.Infrastructure\obj\Debug\net6.0\Transactions.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manasa\source\repos\CGI\Transactions\Transactions.Infrastructure\obj\Debug\net6.0\Transactions.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\manasa\source\repos\CGI\Transactions\Transactions.Infrastructure\obj\Debug\net6.0\Transactions.Infrastructure.AssemblyInfo.cs
+C:\Users\manasa\source\repos\CGI\Transactions\Transactions.Infrastructure\obj\Debug\net6.0\Transactions.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\manasa\source\repos\CGI\Transactions\Transactions.Infrastructure\obj\Debug\net6.0\Transactions.Infrastructure.csproj.CopyComplete
+C:\Users\manasa\source\repos\CGI\Transactions\Transactions.Infrastructure\obj\Debug\net6.0\Transactions.Infrastructure.dll
+C:\Users\manasa\source\repos\CGI\Transactions\Transactions.Infrastructure\obj\Debug\net6.0\refint\Transactions.Infrastructure.dll
+C:\Users\manasa\source\repos\CGI\Transactions\Transactions.Infrastructure\obj\Debug\net6.0\Transactions.Infrastructure.pdb
+C:\Users\manasa\source\repos\CGI\Transactions\Transactions.Infrastructure\obj\Debug\net6.0\Transactions.Infrastructure.genruntimeconfig.cache
+C:\Users\manasa\source\repos\CGI\Transactions\Transactions.Infrastructure\obj\Debug\net6.0\ref\Transactions.Infrastructure.dll
